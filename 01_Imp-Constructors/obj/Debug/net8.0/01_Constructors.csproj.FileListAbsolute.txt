@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\01_Constructors\bin\Debug\net8.0\01_Constructors.exe
+C:\Users\hp\Desktop\DotNet\01_Constructors\bin\Debug\net8.0\01_Constructors.deps.json
+C:\Users\hp\Desktop\DotNet\01_Constructors\bin\Debug\net8.0\01_Constructors.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\01_Constructors\bin\Debug\net8.0\01_Constructors.dll
+C:\Users\hp\Desktop\DotNet\01_Constructors\bin\Debug\net8.0\01_Constructors.pdb
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.dll
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\refint\01_Constructors.dll
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.pdb
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\01_Constructors.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\01_Constructors\obj\Debug\net8.0\ref\01_Constructors.dll

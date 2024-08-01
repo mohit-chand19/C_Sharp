@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\bin\Debug\net8.0\24_AnonymousMethods.exe
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\bin\Debug\net8.0\24_AnonymousMethods.deps.json
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\bin\Debug\net8.0\24_AnonymousMethods.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\bin\Debug\net8.0\24_AnonymousMethods.dll
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\bin\Debug\net8.0\24_AnonymousMethods.pdb
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.dll
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\refint\24_AnonymousMethods.dll
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.pdb
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\24_AnonymousMethods.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\24_AnonymousMethods\obj\Debug\net8.0\ref\24_AnonymousMethods.dll

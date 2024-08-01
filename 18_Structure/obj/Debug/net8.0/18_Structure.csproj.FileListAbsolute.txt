@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\18_Structure\bin\Debug\net8.0\18_Structure.exe
+C:\Users\hp\Desktop\DotNet\18_Structure\bin\Debug\net8.0\18_Structure.deps.json
+C:\Users\hp\Desktop\DotNet\18_Structure\bin\Debug\net8.0\18_Structure.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\18_Structure\bin\Debug\net8.0\18_Structure.dll
+C:\Users\hp\Desktop\DotNet\18_Structure\bin\Debug\net8.0\18_Structure.pdb
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.dll
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\refint\18_Structure.dll
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.pdb
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\18_Structure.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\18_Structure\obj\Debug\net8.0\ref\18_Structure.dll

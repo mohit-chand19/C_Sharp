@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\12_overriding\bin\Debug\net8.0\12_overriding.exe
+C:\Users\hp\Desktop\DotNet\12_overriding\bin\Debug\net8.0\12_overriding.deps.json
+C:\Users\hp\Desktop\DotNet\12_overriding\bin\Debug\net8.0\12_overriding.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\12_overriding\bin\Debug\net8.0\12_overriding.dll
+C:\Users\hp\Desktop\DotNet\12_overriding\bin\Debug\net8.0\12_overriding.pdb
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.dll
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\refint\12_overriding.dll
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.pdb
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\12_overriding.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\12_overriding\obj\Debug\net8.0\ref\12_overriding.dll

@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\bin\Debug\net8.0\14_AbstractClass.exe
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\bin\Debug\net8.0\14_AbstractClass.deps.json
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\bin\Debug\net8.0\14_AbstractClass.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\bin\Debug\net8.0\14_AbstractClass.dll
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\bin\Debug\net8.0\14_AbstractClass.pdb
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.dll
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\refint\14_AbstractClass.dll
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.pdb
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\14_AbstractClass.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\14_AbstractClass\obj\Debug\net8.0\ref\14_AbstractClass.dll

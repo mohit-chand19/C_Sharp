@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\bin\Debug\net8.0\15_AbstractImplementation.exe
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\bin\Debug\net8.0\15_AbstractImplementation.deps.json
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\bin\Debug\net8.0\15_AbstractImplementation.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\bin\Debug\net8.0\15_AbstractImplementation.dll
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\bin\Debug\net8.0\15_AbstractImplementation.pdb
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.dll
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\refint\15_AbstractImplementation.dll
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.pdb
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\15_AbstractImplementation.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\15_AbstractImplementation\obj\Debug\net8.0\ref\15_AbstractImplementation.dll

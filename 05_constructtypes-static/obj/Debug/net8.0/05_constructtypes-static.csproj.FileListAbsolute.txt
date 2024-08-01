@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\bin\Debug\net8.0\05_constructtypes-static.exe
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\bin\Debug\net8.0\05_constructtypes-static.deps.json
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\bin\Debug\net8.0\05_constructtypes-static.runtimeconfig.json
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\bin\Debug\net8.0\05_constructtypes-static.dll
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\bin\Debug\net8.0\05_constructtypes-static.pdb
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.AssemblyInfo.cs
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.dll
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\refint\05_constructtypes-static.dll
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.pdb
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\05_constructtypes-static.genruntimeconfig.cache
+C:\Users\hp\Desktop\DotNet\05_constructtypes-static\obj\Debug\net8.0\ref\05_constructtypes-static.dll
